@@ -18,9 +18,19 @@ Unser Team steht euch gerne für eine individuelle Beratung zur Verfügung. Wir 
 
 ## Projekte
 
-### RehaVision
-Eine GeoCaching App anlässlich des Fitnestages 24.
+### RehaVision – Deine Geocaching-App für das SFZ Fitnesstag!
+Entdecke das Firmengelände des SFZ Chemnitz auf eine völlig neue Weise mit RehaVision! Unsere App wurde speziell für das Sportfest entwickelt und bietet dir ein spannendes Geocaching-Erlebnis. Perfekt für alle Teilnehmer, die Spaß an Bewegung und Entdeckung haben.
 
+Features:
+
+- Löse spannende Rätsel, um den Standort der Caches zu finden!
+- Falls dich die Rätsel nicht weiterbringen, unterstützt Sie die App mit hilfreichen Hinweisen.
+- Scanned die verschiedenen Caches in der richtigen Reihenfolge schnell genug, um in der Rangliste aufzusteigen.
+- Eine benutzerfreundliche und intuitive UI, die sich auf das Wesentliche konzentriert.
+
+Begib dich auf ein Abenteuer und entdecke das SFZ wie nie zuvor. Lade RehaVision jetzt herunter und starte deine Geocaching-Mission!
+
+Hinweis: Diese App ist exklusiv für den Fitnesstag des SFZ am 07.06.24 entwickelt worden und kann nur auf dem Firmengelände verwendet werden.
 
 ## Kontakt
 

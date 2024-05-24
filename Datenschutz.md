@@ -58,9 +58,7 @@
 E-Mail-Adresse:
 <a href="mailto:Tim.Schulz@dekra.com">Tim.Schulz@dekra.com</a> Telefon: +49
 (0)341 2593947 Impressum:
-<a href="https://www.sfz-chemnitz.de/datenschutzerklaerung/" target="_blank"
-  >https://www.sfz-chemnitz.de/datenschutzerklaerung/</a
->
+<a href="https://www.sfz-chemnitz.de/datenschutzerklaerung/" target="_blank">https://www.sfz-chemnitz.de/datenschutzerklaerung/</a>
 
 <h2 id="m11">Kontakt Datenschutzbeauftragter</h2>
 <p><a href="mailto:Tim.Schulz@dekra.com">Tim.Schulz@dekra.com</a></p>

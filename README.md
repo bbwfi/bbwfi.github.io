@@ -1,11 +1,11 @@
 # Fachinformatiker im Berufsbildungswerk des SFZ Förderzentum gGmbH
 
 Herzlich Willkommen auf der Projektseite des Bereiches Informatik im Berufsbildungswerkes SFZ Förderzentrum gGmbH!
-Ihr Partner für innovative und praxisnahe Aus- und Weiterbildung
+euer Partner für innovative und praxisnahe Aus- und Weiterbildung
 
 Das Berufsbildungswerk SFZ Förderzentrum gGmbH ist euer kompetenter Ansprechpartner für die Aus- und Weiterbildung im Bereich Fachinformatik. Mit unserem erfahrenen Team und modernen Lehrmethoden bieten wir eurch ein breites Spektrum an Qualifizierungsmöglichkeiten, die genau auf eure Bedürfnisse zugeschnitten sind.
 
-## Unsere Leistungen:
+## Unsere Leistungen
 
 ### Projektbezogene Ausbildung
 Wir bieten euch die Möglichkeit, eine praxisorientierte Ausbildung in einem aktuellen IT-Projekt zu absolvieren. So erlangt ihr nicht nur theoretisches Wissen, sondern auch wertvolle Praxiserfahrung.

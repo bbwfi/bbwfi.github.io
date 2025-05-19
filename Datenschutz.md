@@ -11,16 +11,11 @@
   (nachfolgend zusammenfassend bezeichnet als "Onlineangebot").
 </p>
 <p>Die verwendeten Begriffe sind nicht geschlechtsspezifisch.</p>
+<h2>Gilt unter anderem für</h2>
+- Rehavision App
+- FI Webseite
+- und alle anderen Apps und Dienste
 
-<h2 id="m4158">Präambel</h2>
-<p>
-  Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären,
-  welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten"
-  bezeichnet) wir zu welchen Zwecken und in welchem Umfang im Rahmen der
-  Bereitstellung unserer Applikation verarbeiten.
-</p>
-<p>Die verwendeten Begriffe sind nicht geschlechtsspezifisch.</p>
-<p>Stand: 24. April 2024</p>
 <h2>Inhaltsübersicht</h2>
 <ul class="index">
   <li><a class="index-link" href="#m716">Präambel</a></li>
@@ -56,12 +51,13 @@
   SFZ Förderzentrum gGmbH<br />Flemmingstraße 8c<br />09116 Chemnitz<br />Deutschland
 </p>
 E-Mail-Adresse:
-<a href="mailto:Tim.Schulz@dekra.com">Tim.Schulz@dekra.com</a> Telefon: +49
+<a href="mailto:ruben.kloeppel@dekra.com">ruben.kloeppel@dekra.com</a> Telefon: +49
 (0)341 2593947 Impressum:
 <a href="https://www.sfz-chemnitz.de/datenschutzerklaerung/" target="_blank">https://www.sfz-chemnitz.de/datenschutzerklaerung/</a>
 
 <h2 id="m11">Kontakt Datenschutzbeauftragter</h2>
-<p><a href="mailto:Tim.Schulz@dekra.com">Tim.Schulz@dekra.com</a></p>
+<p><a href="mailto:ruben.kloeppel@dekra.com">Ruben Immanuel Klöppel
+ruben.kloeppel@dekra.com</a></p>
 
 <h2 id="mOverview">Übersicht der Verarbeitungen</h2>
 <p>
@@ -644,3 +640,4 @@ Inhalte:
     Schwenke</a
   >
 </p>
+<p>Stand: 12.05.2025</p>
